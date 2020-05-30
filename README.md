@@ -22,8 +22,6 @@ Prerequisites:
 * Visual Studio 2019
 * C#
 
-![Test Image 4](https://becomeawag.com/wp-content/uploads/2019/09/funny-cat-clipart-with-a-transparent-background-png-cat.png =250x250)
-
 ### Installation
 
 * Open project solution and rebuild it
