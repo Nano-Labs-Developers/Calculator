@@ -16,7 +16,6 @@ The Windows Calculator app is a modern Windows app written in C#
 
 ### Getting started
 
-Dillinger uses a number of open source projects to work properly:
 Prerequisites:
 * Your computer must be running Windows 10, version 1803 or newer.
 * Visual Studio 2019
