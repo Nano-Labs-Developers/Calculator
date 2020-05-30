@@ -28,6 +28,7 @@ Prerequisites:
 License
 ----
 Copyright (c) Nano Labs Developers. All rights reserved.
+
 Licensed under the [MIT License](https://github.com/Nano-Labs-Developers/Calculator/blob/master/LICENSE).
 
 ## Made by [BlackCAT]()
