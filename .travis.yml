@@ -1,2 +1,2 @@
 language: csharp
-solution: ./src/calculator.sln
+solution: ~/src/calculator.sln
